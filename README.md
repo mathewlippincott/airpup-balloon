@@ -10,7 +10,7 @@ See more of my kite and balloon projects at [headfullofair.com](https://headfull
 * BOM.ods, *Bill of Materials*
 * V2-FIN.DXF, *panel diagram of the fin/wing structure and attachment*
 * V2-ENVELOPE.DXF, *flat pattern of the balloon envelope*
-* 72in-Airpup-model-v1.step, *a full-size version of Airpup accurate for the envelope. The fin pattern needs updating.*
+* 72in-Airpup-model-v1.step, *a full-size version of Airpup accurate for the envelope. The fin pattern [needs updating](issues/1).*
 
 ### envelope construction
 
@@ -28,7 +28,7 @@ Airpup's flat envelope pattern is 1.147 times the length of an inflated Airpup.
 
 * Use the 3D models to plan your payload attachement. Please [reach out](https://headfullofair.com/contact) and share.
 * Fork this repository and improve the design or documentation.
-* Add or comment on [issues in this repository](issues/1).
+* Add or comment on [issues in this repository](issues).
 * [show me](https://headfullofair.com/contact) kite and balloon stuff.
 
 All contributors are asked to abide by the [code of conduct](codeofconduct.md).
