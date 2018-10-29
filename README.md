@@ -28,7 +28,7 @@ Airpup's flat envelope pattern is 1.147 times the length of an inflated Airpup.
 
 * Use the 3D models to plan your payload attachement. Please [reach out](https://headfullofair.com/contact) and share.
 * Fork this repository and improve the design or documentation.
-* Add or comment on [issues in this repository](issues).
+* Add or comment on [issues in this repository](https://github.com/mathewlippincott/airpup-balloon/issues).
 * [show me](https://headfullofair.com/contact) kite and balloon stuff.
 
 All contributors are asked to abide by the [code of conduct](codeofconduct.md).
