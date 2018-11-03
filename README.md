@@ -13,9 +13,7 @@ See more of my kite and balloon projects at [headfullofair.com](https://headfull
 * BOM.ods, *Bill of Materials*
 * V2-FIN.DXF, *panel diagram of the fin/wing structure and attachment*
 * V2-ENVELOPE.DXF, *flat pattern of the balloon envelope*
-* 72in-Airpup-model-v1.step/iges, *full-size 3D Airpup* 
- *  *Envelope and belly mount are accurate*
- *  *Fin pattern [needs updating](https://github.com/mathewlippincott/airpup-balloon/issues/1) with transverse spar*
+* 72in-Airpup-model-v1.step/iges, *full-size 3D Airpup- Envelope and belly mount are accurate, Fin pattern [needs updating](https://github.com/mathewlippincott/airpup-balloon/issues/1) with transverse spar*
 
 ### mounting rails
 The folder */rails* contains CAD files and STLs for end caps and two-part slide mount:
