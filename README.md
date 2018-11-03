@@ -16,7 +16,7 @@ See more of my kite and balloon projects at [headfullofair.com](https://headfull
 * 72in-Airpup-model-v1.step/iges, *full-size 3D Airpup- Envelope and belly mount are accurate, Fin pattern [needs updating](https://github.com/mathewlippincott/airpup-balloon/issues/1) with transverse spar*
 
 ### mounting rails
-The folder */rails* contains CAD files and STLs for end caps and two-part slide mount:
+The folder [/rails](rails) contains CAD files and STLs for end caps and two-part slide mount:
 ![The belly mount has a sliding rail system](images/round-belly-rails-noted.png)
 
 ![the rails allow quick weight adjustment](images/airpup-config-wide.jpg)

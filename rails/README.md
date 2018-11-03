@@ -1,0 +1,1 @@
+1/8" round carbon fiber rods are currently used. Square rods are the future.
