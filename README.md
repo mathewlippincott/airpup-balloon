@@ -19,6 +19,8 @@ See more of my kite and balloon projects at [headfullofair.com](https://headfull
 The folder */rails* contains CAD files and STLs for end caps and two-part slide mount:
 ![The belly mount has a sliding rail system](images/round-belly-rails-noted.png)
 
+![the rails allow quick weight adjustment](images/airpup-config-wide.jpg)
+
 ### envelope construction
 
 The envelope is a 3-gore pattern seamed in a single run:
