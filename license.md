@@ -1,4 +1,4 @@
-Adherence to this license indemnifies licensor against IP claims arising from project participation in NASA cooperative agreement NNX16AB95A.
+Adherence to this license indemnifies licensor against IP claims arising from project participation in NASA cooperative agreement NNX16AB95A and applicable US Patent 10,745,097, Inflatable Lifting Body Kite.
 
 
 CERN Open Hardware Licence v1.2 

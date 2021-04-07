@@ -11,15 +11,14 @@ See more of my kite and balloon projects at [headfullofair.com](https://headfull
 
 * [/rails](rails), *belly mounting rails and STLs*
 * BOM.ods, *Bill of Materials*
-* V2-FIN.DXF, *panel diagram of the fin/wing structure and attachment*
-* V2-ENVELOPE.DXF, *flat pattern of the balloon envelope*
-* 72in-Airpup-model-v1.step/iges, *full-size 3D Airpup- Envelope and belly mount are accurate, Fin pattern [needs updating](https://github.com/mathewlippincott/airpup-balloon/issues/1) with transverse spar*
+* V3-FIN.DXF, *panel diagram of the fin/wing structure and attachment*
+* V3-ENVELOPE.DXF, *flat pattern of the balloon envelope*
+* 72in-Airpup-model-v3.f3z/step/iges, *full-size 3D Airpup- Envelope is accurate in size, volume, and seam locations, fins are illustrative.*
 
-### mounting rails
-The folder [/rails](rails) contains CAD files and STLs for end caps and two-part slide mount:
-![The belly mount has a sliding rail system](images/round-belly-rails-noted.png)
+Fin and envelope flat patterns have a series of rounded-rectanges that correspond to the glued interconnections joining the sewn fins and envelope. 
 
-![the rails allow quick weight adjustment](images/airpup-config-wide.jpg)
+### sewing assembly
+[airpup-assembly.md](airpup-assembly.md) contains instructions on sewing Airpup. 
 
 ### envelope construction
 
@@ -32,6 +31,13 @@ The envelope is a 3-gore pattern seamed in a single run:
 Airpup's envelope volume is roughly equivalent to a sphere whose radius is 1/3 the length of an inflated Airpup.
 
 Airpup's flat envelope pattern is 1.147 times the length of an inflated Airpup.
+
+### mounting rails
+The folder [/rails](rails) contains CAD files and STLs for end caps and two-part slide mount. This mount allows easy weight adjustment and also can be removed from the belly of the balloon through four patches
+![The belly mount has a sliding rail system for easy adjustment](images/belly-rails.png)
+
+![the rails allow quick weight adjustment](images/belly-rails-photo.jpg)
+
 
 ### contribute
 
