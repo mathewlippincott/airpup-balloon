@@ -49,5 +49,5 @@ The folder [/rails](rails) contains CAD files and STLs for end caps and two-part
 All contributors are asked to abide by the [code of conduct](codeofconduct.md).
 
 
-*Licensed under the [CERN OHL 1.2](LICENSE.md)*.
+*Licensed under the [CERN OHL 1.2](license.md)*.
 
